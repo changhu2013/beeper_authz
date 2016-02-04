@@ -1,0 +1,12 @@
+*.tags
+*.log
+*.pid
+
+npm-debug.log
+node_modules
+*rdb
+tmp
+.idea
+.DS_Store
+
+
